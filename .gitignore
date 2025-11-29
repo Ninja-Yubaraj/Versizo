@@ -1,0 +1,17 @@
+# Node
+node_modules
+npm-debug.log
+dist
+
+# IDE and Editor files
+.vscode
+.idea
+*.swp
+*.swo
+
+# Environment files
+.env
+.env.local
+
+# Bible
+Bible/init.sql
